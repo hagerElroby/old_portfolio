@@ -17,8 +17,9 @@ return (
       <div className="i-title-item">SASS</div>
       <div className="i-title-item">Bootstrap</div>
       <div className="i-title-item">JQuery</div>
-      <div className="i-title-item">Rest API</div>
+      <div className="i-title-item">JavaScript</div>
       <div className="i-title-item">React Js</div>
+      <div className="i-title-item">Redux</div>
       <div className="i-title-item">Next Js</div>
       <div className="i-title-item">TypeScript</div>
       <div className="i-title-item">Git</div>
